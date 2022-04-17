@@ -1,0 +1,15 @@
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\Buq.exe.config
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\Buq.exe
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\Buq.pdb
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\Buq.xml
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\MySql.Data.dll
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\Google.Protobuf.dll
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\bin\Debug\MySql.Data.xml
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.FrmBuscarBuq.resources
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.Resources.resources
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.vbproj.GenerateResource.cache
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.vbproj.CoreCompileInputs.cache
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.vbproj.CopyComplete
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.exe
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.xml
+C:\Users\Waldemar\Desktop\Cosas Programacion\windowsform\MatPrimSucBuqVisualBasic\Buq\obj\Debug\Buq.pdb
